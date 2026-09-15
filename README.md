@@ -38,7 +38,7 @@ The project also highlighted differences in mutation architecture between genes.
 ## Repository contents
 
 - `Thesis_analysis.ipynb` – Jupyter notebook containing the computational analysis
-- Thesis PDF – full MSc thesis
+- '798 Research_Project_Final.pdf' – full MSc thesis
 
 ## About me
 
